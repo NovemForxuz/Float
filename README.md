@@ -7,6 +7,8 @@ Float is a mobile app project done by 11 Information Engineering and Media (IEM)
 
 We take references and inspiration from the [Headspace](https://www.headspace.com) app while giving some little twist with our space-themed design and gamification experiences. For now, we only support Android.
 
+My role in this project is mainly frontend development.
+
 # How was it done?
 Our team used [React Native](https://reactnative.dev/) to develop the frontend on the android platform. [AWS Amplify](https://aws.amazon.com/amplify/) was used to build a mobile with a serverless architecture.
 
